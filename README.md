@@ -11,7 +11,7 @@
 <!--- animated text, to copy, just replace the lines with your choice or visit https://readme-typing-svg.herokuapp.com --->
 <div align="center">
 
-![Fida Hussain (1800 × 260 px)](https://github.com/FidaHussain87/FidaHussain87/blob/master/2.png)
+![Fida Hussain (1800 × 260 px)](https://github.com/FidaHussain87/FidaHussain87/blob/master/intro.png)
 
 <!--- portfolio launch image --->
 <a href="https://portfolio-fh.vercel.app/">
@@ -100,5 +100,6 @@ Java               0 secs              ░░░░░░░░░░     00.05%
   
 
 <!--- building footer with spaceship question --->
-![footer](https://github.com/FidaHussain87/FidaHussain87/blob/master/footer.png)
+![footer](https://github.com/FidaHussain87/FidaHussain87/blob/master/footer_resized.png)
+  <div>&nbsp;</div>
 <img height="50" src="https://user-images.githubusercontent.com/60597290/152519754-992acfbc-39df-489d-a01a-72ea86a08996.png" />
