@@ -58,7 +58,7 @@
   ABOUT ME
 </h1>
   
-<img width="115" height="115" src="https://github.com/FidaHussain87/FidaHussain87/blob/master/profile.png" />
+<img width="115" height="115" src="https://github.com/FidaHussain87/FidaHussain87/blob/master/Footer1.png" />
   
 <p>'An enthusiastic young software engineer, tech advocate, and entrepreneur who is captivated by emerging technology trends. playing a role in the globalization of technology and the digital revolution.'</p>
  
