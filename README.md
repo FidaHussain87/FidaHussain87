@@ -59,7 +59,7 @@
   ABOUT ME
 </h1>
   
-<img width="115" height="115" src="https://user-images.githubusercontent.com/60597290/167219087-68b2fc10-b79d-4b83-b7f9-9396beb7c2df.png" />
+<img width="115" height="115" src="https://github.com/FidaHussain87/FidaHussain87/blob/master/profile.png" />
   
 <p>'An enthusiastic young software engineer, tech advocate, and entrepreneur who is captivated by emerging technology trends. playing a role in the globalization of technology and the digital revolution.'</p>
  
@@ -85,8 +85,8 @@ I am a trove of loftier ideas and boundless optimism.
 
 <hr>
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=rashidwassan&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=rashidwassan&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=fidahussain87&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=fidahussain87&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
 </p>
 <div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
 
