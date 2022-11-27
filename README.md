@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/fidahussain87">
-    <img src="https://github.com/FidaHussain87/FidaHussain87/blob/master/username.png" alt="Jonah Lawrence" /></a>
+    <img src="https://github.com/FidaHussain87/FidaHussain87/blob/master/uName.png" alt="Jonah Lawrence" /></a>
 </p>
 
 <p align="center">
