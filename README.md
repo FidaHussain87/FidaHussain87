@@ -119,7 +119,6 @@
     <a href="https://github.com/fidahussain87/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" target="_blank" alt="fidahussain87's streak" src="https://streak-stats.demolab.com/?user=fidahussain87&theme=monokai-metallian&hide_border=true"/>
     </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
