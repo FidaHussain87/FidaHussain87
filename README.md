@@ -33,7 +33,7 @@
   <a href="https://github.com/fidahussain87?tab=followers">
     <img alt="followers" target="_blank" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/fidahussain87?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/fidahussain87/Simple-View-Counter">
-    <img alt="views" target="_blank" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=fidahussain87&label=Profile%20Visitors&color=7C007C&logoColor=640464&style=for-the-badge&logo=appveyor"/></a>
+    <img alt="views" target="_blank" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=fidahussain87&label=Profile%20views&color=7C007C&logoColor=640464&style=for-the-badge"/></a>
 
 </p>
 
@@ -124,9 +124,10 @@
 
   <h3>💻 GitHub Profile Stats</h3>
 
+
   <!-- https://github.com/fidahussain87/github-readme-stats -->
 
-  <a href="https://github.com/fidahussain87/github-readme-stats"><img alt="fidahussain87's Github Stats" target="_blank" src="https://fidahussain87-github-readme-stats.vercel.app/api/?username=fidahussain87&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/fidahussain87/github-readme-stats"><img alt="fidahussain87's Github Stats" target="_blank" src="https://github-readme-stats.vercel.app/api?username=fidahussain87&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/fidahussain87/github-readme-stats"><img alt="fidahussain87's Top Languages" target="_blank" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidahussain87&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
 
