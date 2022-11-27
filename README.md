@@ -33,8 +33,7 @@
   <a href="https://github.com/fidahussain87?tab=followers">
     <img alt="followers" target="_blank" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/fidahussain87?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/fidahussain87/Simple-View-Counter">
-    <img alt="views" target="_blank" title="GitHub profile views" src="ancient-morning-3007.fidahussain-shahani.workers.dev"/></a>
-    ![Visitor Count](https://profile-counter.glitch.me/fidahussain87/count.svg)
+    <img alt="views" target="_blank" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=fidahussain87&label=Profile%20views&color=0e75b6&style=flat"/></a>
 
 </p>
 
