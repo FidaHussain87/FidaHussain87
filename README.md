@@ -33,7 +33,7 @@
   <a href="https://github.com/fidahussain87?tab=followers">
     <img alt="followers" target="_blank" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/fidahussain87?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/fidahussain87/Simple-View-Counter">
-    <img alt="views" target="_blank" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=fidahussain87&label=Profile%20views&color=7C007C&logoColor=640464&style=for-the-badge"/></a>
+    <img alt="views" target="_blank" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=fidahussain87&label=Profile%20Visitors&color=7C007C&logoColor=640464&style=for-the-badge&logo=appveyor"/></a>
 
 </p>
 
