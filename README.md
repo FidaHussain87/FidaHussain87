@@ -12,7 +12,7 @@
 <!-- Social icons section -->
 <p align="center">
 &#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="https://www.linkedin.com/in/fida-hussain-shahani-7a6796119/"><img width="32px" alt="LinkedIn" target="_blank" title="LinkedIn" src="https://github.com/FidaHussain87/FidaHussain87/blob/master/LinkedIn%20Red%20-%20Imgur.png"/></a>
+<a href="https://www.linkedin.com/in/fida-hussain-shahani-7a6796119/"><img width="32px" alt="LinkedIn" target="_blank" title="LinkedIn" src="https://github.com/FidaHussain87/FidaHussain87/blob/master/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/FidaHussainSW31"><img width="32px" alt="Twitter" target="_blank" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
